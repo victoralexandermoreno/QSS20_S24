@@ -1,0 +1,15 @@
+@online{hrdive,
+    author = {HR Dive},
+    title = {Half of Neurodivergent Workers Want to Quit Their Jobs or Already Have},
+    year = {2021},
+    url = {https://www.hrdive.com/news/half-of-neurodivergent-workers-want-to-quit-their-jobs-or-already-have/646889/},
+    urldate = {2024-03-31}
+}
+@online{hbr,
+    author = {Harvard Business Review},
+    title = {Neurodiversity as a Competitive Advantage},
+    year = {2017},
+    url = {https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage},
+    urldate = {2024-03-31}
+}
+
